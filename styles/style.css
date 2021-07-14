@@ -149,7 +149,6 @@ margin-bottom: 10px;
     display: flex;
     flex-direction: column;
     justify-content: center;
-
     align-items: center;
     margin-bottom: 60px;
 }
@@ -234,44 +233,47 @@ media screen
     }
 
     
-/* media-player-section */
+ /* ---------------
+ media-player-section 
+ ---------------------*/
 
 
 
-.container{
+ .container{
 
     width: 100%;
     padding: 70px 50px 70px 150px;
 
   
     
-}
-.players{
+ }
+ .players{
     width: 100%;
     height: 100%;
 
-}
+ }
 
-.player{
+ .player{
     width: 500px;
     height: 700px
-}
+ }
 
-.player-img img{
+ .player-img img{
    
-width: 100%;
-height: 100%;
-}
+ width: 100%;
+ height: 100%;
+   }
 
-/* .footer */
-.footer{
+ /* .---------------
+       footer 
+ --------------------*/
+ .footer{
 
     width: 100%;
-}
-    .footer-section{
-        padding-left:179px;
-    }
+    padding-left:190px;
+  }
 
+    
 }
     
 
